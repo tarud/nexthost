@@ -197,7 +197,7 @@ const SignupForm: React.FC = () => {
   };
 
   return (
-    <div className="flex items-center justify-center p-10 min-h-screen bg-gray-200">
+    <div className="flex items-center justify-center p-10 min-h-screen bg-gradient-to-r from-purple-200 to-blue-200">
      
       <div className="w-full max-w-md p-8 space-y-3 bg-gray-300 rounded-2xl shadow-xl">
         <h1 className="text-2xl font-bold text-center text-gray-700">Sign Up</h1>
